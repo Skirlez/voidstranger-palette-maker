@@ -1,0 +1,7 @@
+draw_self()
+draw_set_color(c_white)
+draw_set_font(font_fixedsys)
+draw_set_halign(fa_center)
+draw_set_valign(fa_middle)
+draw_text(x, y - 32, "Auto-reset palette")
+draw_line_width(x - 1, y + 12, x - 1, y + 36, 2)

@@ -1,0 +1,1 @@
+set_palette(global.palette, true)
