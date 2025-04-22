@@ -1,7 +1,7 @@
 // slightly modified, mostly from Void Stranger's data.win.
 shader_set(shader_palette)
 var unistr, uni, i = 0
-repeat (5)
+repeat (4)
 {
     switch i
     {

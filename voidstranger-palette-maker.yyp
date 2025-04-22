@@ -30,7 +30,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.0.98",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"spr_colorpick_point","path":"sprites/spr_colorpick_point/spr_colorpick_point.yy",},},
@@ -98,7 +98,6 @@
     {"roomId":{"name":"room_init","path":"rooms/room_init/room_init.yy",},},
     {"roomId":{"name":"the_room","path":"rooms/the_room/the_room.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

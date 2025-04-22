@@ -1,4 +1,4 @@
-// Taken directly from VoidStranger's data.win.
+// Taken directly from Void Stranger's data.win.
 
 varying vec2 v_vTexcoord;
 varying vec4 v_vColour;
