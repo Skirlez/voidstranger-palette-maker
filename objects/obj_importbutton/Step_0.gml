@@ -3,7 +3,7 @@ if clicked() {
 	if clipboard_has_text() {
 		var str = clipboard_get_text()
 		drawstring = 1
-		for (var i = 0; i < 5; i++) {
+		for (var i = 0; i < 4; i++) {
 			var linebreak = string_pos("colarray[" + string(i) + "]", str) + 14
 			if linebreak != 0 + 14 {
 				var char = ""
