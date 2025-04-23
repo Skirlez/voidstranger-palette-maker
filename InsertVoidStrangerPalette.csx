@@ -25,7 +25,8 @@ String palette = SimpleTextInput("Text input box", "Enter the output from Void S
 // so nothing changes
 
 int potential3Index = palette.IndexOf("colarray[3] = 16777215");
-if (potential3Index != -1) {
+int potential4Index = palette.IndexOf("colarray[4]");
+if (potential3Index != -1 && potential4Index != -1) {
 	palette = palette.Replace("break", "");
 	palette += "\n"
 		+ "colarray[3] = colarray[4]\n"
